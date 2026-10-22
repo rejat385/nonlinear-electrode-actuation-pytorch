@@ -88,7 +88,6 @@ python inverse_optimization.py
 
 - Evaluate additional voltage configurations.
 - Improve the physical plausibility of the synthetic actuator model.
-- Investigate wavefront phase-map prediction.
 - Compare ML-based inverse optimization against conventional numerical optimization.
 - Explore model performance on experimental data when available.
 
